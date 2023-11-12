@@ -7,7 +7,7 @@ Formulário produzido a partir do [Bootstrap 5](https://getbootstrap.com/), a pa
 * [Introdução](#introdução)
 * [Funcionalidades](#funcionalidades)
 * [Técnicas e tecnologias utilizadas](#técnicas-e-tecnologias-utilizadas)
-* [Sites consultados](#Sites consultados)
+* [Sites consultados](#Sites-consultados)
 * [Analise dos sites](#analise-dos-sites)
 
 # descrição
@@ -20,6 +20,8 @@ Pessoais:
 
 * ultilizados apenas para uma melhor experiência durante anavegação no site, também ajudando
 o vendedor a identificar o comprador.
+
+![informações pessoais](pessoais.png)
 
 # Sites consultados
 
