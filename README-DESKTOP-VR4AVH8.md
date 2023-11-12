@@ -1,9 +1,4 @@
-# Formulário de Cadastro 
-
-    Formulário produzido a partir do [Bootstrap 5](https://getbootstrap.com/), a partir da análise de 3 sites onde retiramos as informações ultilizadas em nosso formulário de Cadastro.
-
-
-# Sites consultados na atividade anteriormente
+# Sites consultados na atividade anterior
 
 ## shoppe ##
 
@@ -22,10 +17,3 @@ O processo de cadastro começou com a solicitação de localização, e-mail e s
 Descrição dos campos
 
 O site da Netshoes oferece um processo de cadastro único para ambos os tipos de usuários, pessoa física e pessoa jurídica. Para o cadastro de pessoa física, são necessários nome completo, data de nascimento, CPF, DDD e número de celular. Para pessoa jurídica, é necessário fornecer razão social, nome fantasia e CNPJ (inscrição social é opcional). Ambos os tipos de cadastro incluem informações de endereço, como CEP, tipo de endereço, nome da rua, número, bairro, estado e cidade. O site pode preencher automaticamente as informações com base no CEP fornecido. Além disso, os usuários têm a opção de adicionar complementos e ponto de referência, se desejado. Não é necessário fazer um cadastro de endereço durante a primeira compra.
-
-
-
-# Inicio do projeto #
-
-fizmos as adições no VSC a partir do Bootstrap 5. Tanto o código html quanto o código CSS
-
