@@ -84,14 +84,14 @@ campos:
 
 - Finalmente, foi necessário preencher um cadastro pessoal, incluindo data de nascimento, e-mail, nome completo, gênero e CPF.
 
-![Site 1](img/Shopee.png)
+![Shopee](img/Shopee.png)
 ## AliExpress:
 **Descrição dos campos** 
 - O cadastro começou com a solicitação da localização do usuário, e-mail e senha. Em seguida, foi enviado um código de 4 dígitos para verificar o e-mail. Depois, foi necessário inserir um CPF válido, com a restrição de que não poderia ser de um menor de idade. Após inserir o CPF, o cadastro estava concluído, mas também foi solicitado o DDD e número de telefone.
 
 - Na primeira compra, foi necessário fornecer informações de endereço para entrega. Isso incluiu o nome de contato do usuário, um número de celular para contato, o CEP, que agilizaria o processo de preenchimento. Se o CEP estivesse correto, o site preencheria automaticamente o estado, cidade, bairro, rua e número da residência. Caso o CEP estivesse incorreto, o usuário teria que inserir essas informações manualmente. Além disso, foi necessário indicar se o local de entrega era um apartamento ou casa. Novamente, o site solicitou o CPF.
 
-![Site 2](img/AliExpress.png)
+![Aliexpress](img/AliExpress.png)
 ## Netshoes:
 **Descrição dos campos** 
 - O site da Netshoes se destacou por ter um processo de cadastro simples e único, eliminando a necessidade de fornecer informações de endereço durante a primeira compra. Existiam dois tipos de cadastros: um para pessoa física e outro para pessoa jurídica.
@@ -100,4 +100,4 @@ campos:
 
 - O cadastro de endereço era semelhante para ambos os tipos de cadastro, requerendo o fornecimento do CEP (com preenchimento automático dos campos se o CEP fosse inserido corretamente). Além disso, era necessário especificar o tipo de endereço (casa, condomínio, etc.), nome da rua, número, bairro, estado e cidade. Os usuários tinham a opção de adicionar complementos e ponto de referência, se desejado.
 
-
+![Netshoes](img/Netshoes.png)
