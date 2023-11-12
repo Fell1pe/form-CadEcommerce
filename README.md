@@ -23,6 +23,16 @@ o vendedor a identificar o comprador.
 
 ![informações pessoais](pessoais.png)
 
+Endereço:
+
+* Parte essêncial para que o vendedor possa saber o destino para onde o produto será levado.
+
+* nesse campo são pedidos os seguintes critérios: 
+
+* '' Endereço, Bairro, Cidade, Estado, Cep ''
+
+![Endereço](img/Endere%C3%A7o.PNG)
+
 # Sites consultados
 
 ## shoppe ##
