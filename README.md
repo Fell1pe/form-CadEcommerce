@@ -10,7 +10,7 @@ Formulário produzido a partir do [Bootstrap 5](https://getbootstrap.com/), a pa
 * [Sites consultados](#Sites-consultados)
 * [Analise dos sites](#analise-dos-sites)
 
-# descrição
+## descrição
 
 o site contem os seguintes passos para a formação do cadastro:
 
@@ -33,6 +33,19 @@ Endereço:
 
 ![Endereço](img/Endere%C3%A7o.PNG)
 
+## Introdução 
+Passo a passo para o cadasto:
+
+- Preencha os campos dos dados pessoais.
+- Cadastre um endereço.
+- Clique no botão "Salvar".
+
+Dicas para criar uma senha:
+- Sua senha deve ter pelo menos 8 caracteres.
+- Sua senha deve conter letras maiúsculas e minúsculas, números e símbolos.
+- Não use senhas que sejam fáceis de adivinhar, como seu nome, data de nascimento ou endereço.
+
+
 # Sites consultados
 
 ## shoppe ##
@@ -53,9 +66,4 @@ Descrição dos campos
 
 O site da Netshoes oferece um processo de cadastro único para ambos os tipos de usuários, pessoa física e pessoa jurídica. Para o cadastro de pessoa física, são necessários nome completo, data de nascimento, CPF, DDD e número de celular. Para pessoa jurídica, é necessário fornecer razão social, nome fantasia e CNPJ (inscrição social é opcional). Ambos os tipos de cadastro incluem informações de endereço, como CEP, tipo de endereço, nome da rua, número, bairro, estado e cidade. O site pode preencher automaticamente as informações com base no CEP fornecido. Além disso, os usuários têm a opção de adicionar complementos e ponto de referência, se desejado. Não é necessário fazer um cadastro de endereço durante a primeira compra.
 
-
-
-# Inicio do projeto #
-
-fizmos as adições no VSC a partir do Bootstrap 5. Tanto o código html quanto o código CSS
 
