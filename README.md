@@ -21,7 +21,7 @@ Pessoais:
 * ultilizados apenas para uma melhor experiência durante anavegação no site, também ajudando
 o vendedor a identificar o comprador.
 
-![informações pessoais](pessoais.png)
+![Pessoais](img/pessoais.PNG)
 
 Endereço:
 
@@ -29,7 +29,7 @@ Endereço:
 
 * nesse campo são pedidos os seguintes critérios: 
 
-* '' Endereço, Bairro, Cidade, Estado, Cep ''
+* ´´ Endereço, Bairro, Cidade, Estado, Cep ´´
 
 ![Endereço](img/Endere%C3%A7o.PNG)
 
