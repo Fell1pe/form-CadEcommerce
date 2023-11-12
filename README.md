@@ -10,6 +10,17 @@ Formulário produzido a partir do [Bootstrap 5](https://getbootstrap.com/), a pa
 * [Sites consultados](#Sites consultados)
 * [Analise dos sites](#analise-dos-sites)
 
+# descrição
+
+o site contem os seguintes passos para a formação do cadastro:
+
+Pessoais:
+
+* Contendo informações como email, senha, data de nascimento, telefone, cpf, nome.
+
+* ultilizados apenas para uma melhor experiência durante anavegação no site, também ajudando
+o vendedor a identificar o comprador.
+
 # Sites consultados
 
 ## shoppe ##
