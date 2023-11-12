@@ -46,6 +46,28 @@ Dicas para criar uma senha:
 - Não use senhas que sejam fáceis de adivinhar, como seu nome, data de nascimento ou endereço.
 
 
+## Funcionalidades
+**Dados pessoal**
+
+campos:
+
+* **Nome:** Nome completo do usuário.
+* **CPF:** O Cadastro de Pessoa Física do usuário.
+* **Telefone:** Número de celular do usuário.
+* **Data de nascimento:** Data de nascimento do usuário.
+* **Email:** Email do usuário.
+* **Senha:** Senha criada pelo usuário.
+
+**Cadastro de endereço**
+
+ campos:
+
+* **Bairro:** Bairro do destinatário.
+* **Endereço:** Endereço do destinatário.
+* **Cidade:** Cidade do destinatário.
+* **Estado:** Estado do destinatário.
+* **CEP:** CEP do destinatário.
+
 # Sites consultados
 
 ## shoppe ##
