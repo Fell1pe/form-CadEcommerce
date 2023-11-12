@@ -1,6 +1,6 @@
 # Formulário de Cadastro 
 
-    Formulário produzido a partir do [Bootstrap 5](https://getbootstrap.com/), a partir da análise de 3 sites onde retiramos as informações ultilizadas em nosso formulário de Cadastro.
+Formulário produzido a partir do [Bootstrap 5](https://getbootstrap.com/), a partir da análise de 3 sites onde retiramos as informações ultilizadas em nosso formulário de Cadastro.
 
 
 # Sites consultados na atividade anteriormente
