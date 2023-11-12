@@ -2,8 +2,15 @@
 
 Formulário produzido a partir do [Bootstrap 5](https://getbootstrap.com/), a partir da análise de 3 sites onde retiramos as informações ultilizadas em nosso formulário de Cadastro.
 
+## Índice 
+* [Descrição](#descrição)
+* [Introdução](#introdução)
+* [Funcionalidades](#funcionalidades)
+* [Técnicas e tecnologias utilizadas](#técnicas-e-tecnologias-utilizadas)
+* [Sites consultados](#Sites consultados)
+* [Analise dos sites](#analise-dos-sites)
 
-# Sites consultados na atividade anteriormente
+# Sites consultados
 
 ## shoppe ##
 
